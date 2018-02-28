@@ -1,10 +1,8 @@
 
 
----?image=assets/grimSleeper.jpeg
+#@title[Introduction]
 
-
-
-
+---?image=assets/images/grimSleeper.jpeg
 
 
 ---?image=assets/images/esotouricLogo.jpg
