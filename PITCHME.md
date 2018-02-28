@@ -3,14 +3,6 @@
 ---?image=assets/images/esotouricLogo.jpg
 
 
----
-
-![Logo](assets/images/esotouricLogo.jpg)
-
-
----
-
-
 
 ---?image=assets/images/erleStanelyGardener-Alt.jpg
 
