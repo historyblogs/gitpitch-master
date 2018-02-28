@@ -16,7 +16,7 @@
 
 ---
 
-![Logo](assets/images/raymondburr.jpg)
+---?image=assets/images/raymondburr.jpg)
 
 ---
 
