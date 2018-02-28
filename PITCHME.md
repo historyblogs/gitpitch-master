@@ -12,12 +12,12 @@
 
 
 
-![Logo](assets/images/erleStanelyGardener-Alt.jpg
+---?image=assets/images/erleStanelyGardener-Alt.jpg
 
 ---
 
-![Logo](assets/images/erleStanelyGardener.jpg
+![Logo](assets/images/raymondburr.jpg)
 
 ---
 
-![Logo](assets/images/Gardner-Court-of-Last-Resort-FE.jpg
+![Logo](assets/images/Gardner-Court-of-Last-Resort-FE.jpg)
