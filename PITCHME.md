@@ -14,7 +14,7 @@
 
 ---?image=assets/images/erleStanelyGardener-Alt.jpg
 
----
+
 
 
 ---?image=assets/images/raymondburr.jpg
