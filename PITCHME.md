@@ -8,6 +8,8 @@
 ---?image=assets/images/esotouricLogo.jpg
 
 
+---?image=assets/images/earlRogers.jpg
+
 
 ---?image=assets/images/erleStanelyGardener-Alt.jpg
 
