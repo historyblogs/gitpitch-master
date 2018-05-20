@@ -12,19 +12,30 @@
 ---?image=assets/images/mansonAug.jpeg
 
 
+---
+
 ![Logo](image=assets/images/RFK.jpg)
 
 
----?image=assets/images/Sirhan.jpg
+
+---
+
+![Logo](image=assets/images/Sirhan.jpg)
 
 
----?image=assets/images/Thane.jpg
+
+---
+
+![Logo](image=assets/images/Thane.jpg)
+
+---
+
+![Logo](image=assets/images/DDD.jpg)
+
+---
 
 
----?image=assets/images/DDD.jpg
-
-
----?image=assets/images/Westbrook.jpg
+![Logo](image=assets/images/Westbrook.jpg)
 
 
 
