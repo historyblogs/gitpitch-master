@@ -11,23 +11,21 @@
 
 ---?image=assets/images/mansonAug.jpeg
 
----
 
 
-
----?image=assets/images/01 RFK.jpg
-
-
----?image=assets/images/02 Sirhan.jpg
+---?image=assets/images/RFK.jpg
 
 
----?image=assets/images/03 Thane Cesar.jpg
+---?image=assets/images/Sirhan.jpg
 
 
----?image=assets/images/04 DDD.jpg
+---?image=assets/images/Thane.jpg
 
 
----?image=assets/images/05 Colston Westbrook.jpg
+---?image=assets/images/DDD.jpg
+
+
+---?image=assets/images/Westbrook.jpg
 
 
 
