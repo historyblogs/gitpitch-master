@@ -17,14 +17,6 @@
 
 
 
-![Logo](assets/images/Gardner-Court-of-Last-Resort-FE.jpg)
-
-
-
----
-
-
-
 ![Logo](assets/images/RFK.jpg)
 
 
