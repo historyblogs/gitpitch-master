@@ -12,8 +12,7 @@
 ---?image=assets/images/mansonAug.jpeg
 
 
-
----?image=assets/images/RFK.jpg
+![Logo](image=assets/images/RFK.jpg)
 
 
 ---?image=assets/images/Sirhan.jpg
