@@ -4,14 +4,18 @@
 
 ---
 
----?image=assets/images/chesterTurnerCrimelabSept2018.jpeg
+---?image=assets/images/CrimeLabJan2019.jpeg
 
 
 ---?image=assets/images/esotouricLogo.jpg
 
 
 
----?image=assets/images/mansonAug.jpeg
+---?image=assets/images/hankOct-6-2018.jpeg
+
+
+---?image=assets/images/elmore2018.jpeg
+
 
 
 ---
@@ -24,25 +28,6 @@
 
 
 ---
-
-![Logo](assets/images/Sirhan.jpg)
-
-
-
----
-
-![Logo](assets/images/Thane.jpg)
-
----
-
-![Logo](assets/images/DDD.jpg)
-
----
-
-
-![Logo](assets/images/Westbrook.jpg)
-
-
 
 
 
