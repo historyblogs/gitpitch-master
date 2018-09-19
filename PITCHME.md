@@ -14,6 +14,8 @@
 ---?image=assets/images/hankOct-6-2018.jpeg
 
 
+---?image=assets/images/chandlerOct2018.jpeg
+
 ---?image=assets/images/elmore2018.jpeg
 
 
