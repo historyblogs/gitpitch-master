@@ -6,6 +6,12 @@
 
 ---?image=assets/images/CrimeLabJan2019.jpeg
 
+---?image=assets/images/nordskogPhoto.jpeg
+
+---?image=assets/images/JohnOrr.jpg
+
+---?image=assets/images/burnedOrr.png
+
 
 ---?image=assets/images/esotouricLogo.jpg
 
