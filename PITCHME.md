@@ -1,9 +1,5 @@
 
 
-#@title[Introduction]
-
----
-
 ---?image=assets/images/April2019CrimeLab.jpeg
 
 
