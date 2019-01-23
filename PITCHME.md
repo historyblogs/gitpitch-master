@@ -4,35 +4,29 @@
 
 ---
 
----?image=assets/images/CrimeLabJan2019.jpeg
+---?image=assets/images/April2019CrimeLab.jpeg
 
----?image=assets/images/nordskogPhoto.jpeg
-
----?image=assets/images/JohnOrr.jpg
-
----?image=assets/images/burnedOrr.png
 
 
 ---?image=assets/images/esotouricLogo.jpg
 
 
+---?image=assets/images/hotelHorrorsSocialMedia.jpeg
 
----?image=assets/images/hankOct-6-2018.jpeg
+
+---?image=assets/images/pasadenaSocialMedia.jpeg
 
 
----?image=assets/images/chandlerOct2018.jpeg
-
----?image=assets/images/elmore2018.jpeg
+---?image=assets/images/LATimesApril2019.jpeg
 
 
 
 ---
 
 
+---?image=assets/images/nordskogPhoto.jpeg
 
-
-![Logo](assets/images/RFK.jpg)
-
+---?image=assets/images/JohnOrr.jpg
 
 
 ---
