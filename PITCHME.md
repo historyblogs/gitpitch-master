@@ -70,7 +70,7 @@
 
 
 
-#[fit]Get on the bus!
+ # ->Get on the bus!<-
 
 
 
