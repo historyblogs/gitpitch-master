@@ -1,6 +1,23 @@
 
 
+
+---?image=assets/images/nordskogPhoto.jpeg
+
+---?image=assets/images/orrCap.jpg
+
+---?image=assets/images/burned.jpg
+
+
+
+
 ---?image=assets/images/April2019CrimeLab.jpeg
+
+
+
+---?image=assets/images/Dr._Alexander_Gettler.jpg
+---?image=assets/images/KrishnaVenta1949.jpg
+---?image=assets/images/poisonersHB-magic.jpg
+
 
 
 
@@ -17,15 +34,11 @@
 
 
 
----
 
 
----?image=assets/images/nordskogPhoto.jpeg
-
----?image=assets/images/JohnOrr.jpg
 
 
----
+
 
 
 
