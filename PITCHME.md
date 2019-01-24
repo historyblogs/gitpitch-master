@@ -6,7 +6,7 @@
 
 #### SAMBA Deployment Architecture
 
-![Logo](images/nordskogPhoto.jpeg)
+![Logo](assets/images/nordskogPhoto.jpeg)
 
 ---
 
@@ -16,7 +16,7 @@
 
 #### SAMBA Deployment Architecture
 
-![Logo](images/orrCap.jpg)
+![Logo](assets/images/orrCap.jpg)
 
 ---
 
@@ -40,7 +40,7 @@
 #### SAMBA Deployment Architecture
 
 
-![Logo](images/April2019CrimeLab.jpeg)
+![Logo](assets/images/April2019CrimeLab.jpeg)
 
 
 ---
@@ -51,7 +51,7 @@
 
 #### SAMBA Deployment Architecture
 
-![Logo](images/gettlerCrop.jpg)
+![Logo](assets/images/gettlerCrop.jpg)
 
 ---
 
@@ -60,7 +60,7 @@
 
 #### SAMBA Deployment Architecture
 
-![Logo](images/KrishnaVenta1949.jpg)
+![Logo](assets/images/KrishnaVenta1949.jpg)
 
 ---
 
@@ -69,17 +69,7 @@
 
 #### SAMBA Deployment Architecture
 
-![Logo](images/poisonersHB-magic.jpg)
-
-
----
-
-@title[Deployment Architecture]
-
-
-#### SAMBA Deployment Architecture
-
-![Logo](images/esotouricLogo.jpg)
+![Logo](assets/images/poisonersHB-magic.jpg)
 
 
 ---
@@ -89,17 +79,7 @@
 
 #### SAMBA Deployment Architecture
 
-![Logo](images/hotelHorrorsSocialMedia.jpeg)
-
----
-
-
-@title[Deployment Architecture]
-
-
-#### SAMBA Deployment Architecture
-
-![Logo](images/pasadenaSocialMedia.jpeg)
+![Logo](assets/images/esotouricLogo.jpg)
 
 
 ---
@@ -109,7 +89,27 @@
 
 #### SAMBA Deployment Architecture
 
-![Logo](images/LATimesApril2019.jpeg)
+![Logo](assets/images/hotelHorrorsSocialMedia.jpeg)
+
+---
+
+
+@title[Deployment Architecture]
+
+
+#### SAMBA Deployment Architecture
+
+![Logo](assets/images/pasadenaSocialMedia.jpeg)
+
+
+---
+
+@title[Deployment Architecture]
+
+
+#### SAMBA Deployment Architecture
+
+![Logo](assets/images/LATimesApril2019.jpeg)
 
 
 ---
