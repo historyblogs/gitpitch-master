@@ -1,10 +1,6 @@
 
 
 
-@title[Deployment Architecture]
-
-
-#### SAMBA Deployment Architecture
 
 ![Logo](assets/images/nordskogPhoto.jpeg)
 
@@ -20,10 +16,6 @@
 
 ---
 
-@title[Deployment Architecture]
-
-
-#### SAMBA Deployment Architecture
 
 
 ![Logo](assets/images/burned.jpg)
