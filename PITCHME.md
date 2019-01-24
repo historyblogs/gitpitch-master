@@ -13,7 +13,7 @@
 ---?image=assets/images/April2019CrimeLab.jpeg
 
 
----?image=assets/images/gettler.jpg
+---?image=assets/images/gettlerCrop.jpg
 
 ---?image=assets/images/KrishnaVenta1949.jpg
 ---?image=assets/images/poisonersHB-magic.jpg
