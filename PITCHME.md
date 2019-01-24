@@ -1,36 +1,39 @@
 
 
 
----?image=assets/images/nordskogPhoto.jpeg
+![Logo](images/nordskogPhoto.jpeg)
 
----?image=assets/images/orrCap.jpg
-
----?image=assets/images/burned.jpg
+![Logo](images/orrCap.jpg)
 
 
-
-
----?image=assets/images/April2019CrimeLab.jpeg
-
-
----?image=assets/images/gettlerCrop.jpg
-
----?image=assets/images/KrishnaVenta1949.jpg
----?image=assets/images/poisonersHB-magic.jpg
+![Logo](assets/images/burned.jpg)
 
 
 
 
----?image=assets/images/esotouricLogo.jpg
 
 
----?image=assets/images/hotelHorrorsSocialMedia.jpeg
+![Logo](images/April2019CrimeLab.jpeg)
 
 
----?image=assets/images/pasadenaSocialMedia.jpeg
+![Logo](images/gettlerCrop.jpg)
+
+![Logo](images/KrishnaVenta1949.jpg)
+![Logo](images/poisonersHB-magic.jpg)
 
 
----?image=assets/images/LATimesApril2019.jpeg
+
+
+![Logo](images/esotouricLogo.jpg)
+
+
+![Logo](images/hotelHorrorsSocialMedia.jpeg)
+
+
+![Logo](images/pasadenaSocialMedia.jpeg)
+
+
+![Logo](images/LATimesApril2019.jpeg)
 
 
 
