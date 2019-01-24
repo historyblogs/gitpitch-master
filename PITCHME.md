@@ -14,7 +14,7 @@
 
 
 
----?image=assets/images/Dr._Alexander_GettlerSmall
+---?image=assets/images/Dr._Alexander_GettlerSmall.jpg
 ---?image=assets/images/KrishnaVenta1949.jpg
 ---?image=assets/images/poisonersHB-magic.jpg
 
