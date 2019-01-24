@@ -30,6 +30,10 @@
 ---
 
 
+![Logo](assets/images/poisonersHB-magic.jpg)
+
+
+---
 
 ![Logo](assets/images/gettlerCrop.jpg)
 
@@ -40,10 +44,6 @@
 ---
 
 
-![Logo](assets/images/poisonersHB-magic.jpg)
-
-
----
 
 
 ![Logo](assets/images/esotouricLogo.jpg)
