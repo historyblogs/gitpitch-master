@@ -53,11 +53,6 @@
 
 ![Logo](assets/images/hotelHorrorsSocialMedia.jpeg)
 
----
-
-
-![Logo](assets/images/pasadenaSocialMedia.jpeg)
-
 
 ---
 
