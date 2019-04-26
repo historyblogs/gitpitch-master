@@ -3,7 +3,7 @@
 
 
 
-![Logo](assets/images/brad-1.jpg)
+![Logo](assets/images/faviconImage)
 
 
 ---
