@@ -2,64 +2,61 @@
 
 
 
-![Logo](assets/images/nordskogPhoto.jpeg)
+![Logo](assets/images/JULY-CRIMELAB)
 
 ---
 
 
 
-![Logo](assets/images/orrCap.jpg)
-
----
-
-
-
-![Logo](assets/images/burned.jpg)
-
+![Logo](assets/images/esotouricLogo.jpeg)
 
 
 
 ---
 
-
-
-
-![Logo](assets/images/April2019CrimeLab.jpeg)
-
+![Logo](assets/images/BRADS-TOUR-SLA)
 
 ---
 
 
-![Logo](assets/images/poisonersHB-magic.jpg)
+
+![Logo](assets/images/MIKES-TOUR)
 
 
----
 
-![Logo](assets/images/gettlerCrop.jpg)
-
----
-
-![Logo](assets/images/KrishnaVenta1949.jpg)
 
 ---
 
 
 
 
-![Logo](assets/images/esotouricLogo.jpg)
+![Logo](assets/images/BRADS-TOUR-MANSON)
 
 
 ---
 
-![Logo](assets/images/hotelHorrorsSocialMedia.jpeg)
+
+![Logo](assets/images/01. RE cover.jpg)
 
 
 ---
 
-![Logo](assets/images/LATimesApril2019.jpeg)
+
+![Logo](assets/images/02. DEFREEZE.jpg)
 
 
 ---
+
+![Logo](assets/images/04. 54th St..jpg)
+
+
+---
+
+![Logo](assets/images/04.SLA)
+
+
+---
+
 
 
 
