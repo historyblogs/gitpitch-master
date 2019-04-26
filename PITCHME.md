@@ -36,7 +36,7 @@
 ---
 
 
-![Logo](assets/images/01. RE cover.jpg)
+![Logo](assets/images/brad-1.jpg)
 
 
 ---
